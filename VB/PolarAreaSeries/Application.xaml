@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="PolarAreaSeries.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">35-F5-C4-9C-D6-D5-79-38-69-07-6B-C9-8C-7A-D4-7B-8D-80-A5-87</my:String>
+  </Application.Resources>
+</Application>
