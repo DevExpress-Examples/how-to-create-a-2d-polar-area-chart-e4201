@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/PolarAreaSeries/MainPage.xaml) (VB: [MainPage.xaml](./VB/PolarAreaSeries/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Polar Area chart
 
 
